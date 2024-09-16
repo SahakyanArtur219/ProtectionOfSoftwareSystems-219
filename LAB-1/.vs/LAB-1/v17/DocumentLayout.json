@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sahak\\source\\repos\\ProtectionOfSoftwareSystems-219\\LAB-1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87AFB9FA-6627-423D-91D7-9293098F3CEA}|SmallestCommonMultiple\\SmallestCommonMultiple.vcxproj|C:\\Users\\sahak\\source\\repos\\ProtectionOfSoftwareSystems-219\\LAB-1\\SmallestCommonMultiple\\SmallestCommonMultiple.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87AFB9FA-6627-423D-91D7-9293098F3CEA}|SmallestCommonMultiple\\SmallestCommonMultiple.vcxproj|solutionrelative:SmallestCommonMultiple\\SmallestCommonMultiple.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE318814-0171-427A-BBA3-826D151B224C}|GratestCommonDivisor\\GratestCommonDivisor.vcxproj|C:\\Users\\sahak\\source\\repos\\ProtectionOfSoftwareSystems-219\\LAB-1\\GratestCommonDivisor\\GratestCommonDivisor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE318814-0171-427A-BBA3-826D151B224C}|GratestCommonDivisor\\GratestCommonDivisor.vcxproj|solutionrelative:GratestCommonDivisor\\GratestCommonDivisor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 162,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SmallestCommonMultiple.cpp",
+              "DocumentMoniker": "C:\\Users\\sahak\\source\\repos\\ProtectionOfSoftwareSystems-219\\LAB-1\\SmallestCommonMultiple\\SmallestCommonMultiple.cpp",
+              "RelativeDocumentMoniker": "SmallestCommonMultiple\\SmallestCommonMultiple.cpp",
+              "ToolTip": "C:\\Users\\sahak\\source\\repos\\ProtectionOfSoftwareSystems-219\\LAB-1\\SmallestCommonMultiple\\SmallestCommonMultiple.cpp",
+              "RelativeToolTip": "SmallestCommonMultiple\\SmallestCommonMultiple.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-16T18:44:46.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GratestCommonDivisor.cpp",
+              "DocumentMoniker": "C:\\Users\\sahak\\source\\repos\\ProtectionOfSoftwareSystems-219\\LAB-1\\GratestCommonDivisor\\GratestCommonDivisor.cpp",
+              "RelativeDocumentMoniker": "GratestCommonDivisor\\GratestCommonDivisor.cpp",
+              "ToolTip": "C:\\Users\\sahak\\source\\repos\\ProtectionOfSoftwareSystems-219\\LAB-1\\GratestCommonDivisor\\GratestCommonDivisor.cpp",
+              "RelativeToolTip": "GratestCommonDivisor\\GratestCommonDivisor.cpp",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAACUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-16T18:42:26.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 339,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
